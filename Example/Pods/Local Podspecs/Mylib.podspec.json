@@ -1,0 +1,22 @@
+{
+  "name": "Mylib",
+  "version": "0.1.0",
+  "summary": "A short description of Mylib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wuxiusen/Mylib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuxiusen": "2399013305@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wuxiusen/Mylib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Mylib/Classes/**/*"
+}
